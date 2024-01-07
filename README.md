@@ -8,3 +8,5 @@ Once you start scrolling you will immediately notice the infinate scrolling on t
 as well as the animation of the data loading in using "framer motion"!
 
 All of the data is implimented using Next.js server side features (or server actions)
+
+Note: You must have the most recent version of Next.js to run this application
